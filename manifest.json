@@ -1,7 +1,7 @@
 {
   "stable": {
-    "version": "v0.0.17",
-    "zip": "https://dpirvoiu.github.io/pos-updates/stable/v0.0.17/pos-win-x64.zip",
-    "sha256": "b15416b5f674889f5e28aca41cace13846f293525c08277b614fcfbf48f46048"
+    "version": "v0.0.18",
+    "zip": "https://dpirvoiu.github.io/pos-updates/stable/v0.0.18/pos-win-x64.zip",
+    "sha256": "8d5f16e87183a39594a6d1cccf8e91a9655ffbf141fc37d01ee4b4e81b38083b"
   }
 }
